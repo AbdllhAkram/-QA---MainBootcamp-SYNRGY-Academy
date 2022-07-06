@@ -1,1 +1,2 @@
-# QA-MainBootcamp-SYNRGY-Academy
+# Quality Assurance-MainBootcamp-
+# SYNRGY-Academy
